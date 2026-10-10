@@ -1,6 +1,6 @@
 **Muhammad Balal Ansar (Cyber Security Expert)**
 
-Use For every project
+Use For Every project
 
 
 # React + TypeScript + Vite
